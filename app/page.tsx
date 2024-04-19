@@ -1,5 +1,5 @@
 import Image from 'next/image';
 
 export default function Home() {
-  return <main className=''>Kasidit Bualoeng</main>;
+  return <main className=''></main>;
 }
